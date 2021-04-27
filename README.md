@@ -7,4 +7,4 @@
 This is my work profile, if you'd like to see more of my personal projects, look over at @ZacharySeebeck2020
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharySeebeckNewtech)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharySeebeck2020)](https://github.com/anuraghazra/github-readme-stats)
